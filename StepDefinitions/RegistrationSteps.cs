@@ -20,6 +20,7 @@ namespace BlueOceanGiftreteWishlist.StepDefinitions
             registrationPage = new RegistrationPage();
         }
 
+
         [When(@"I enter wrong confirm password")]
         public void WhenIEnterWrongConfirmPassword()
         {
@@ -33,7 +34,6 @@ namespace BlueOceanGiftreteWishlist.StepDefinitions
         {
             registrationPage.NavigateToGiftreteWebsite();
         }
-
 
 
         [When(@"I click on Create Account")]

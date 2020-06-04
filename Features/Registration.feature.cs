@@ -135,6 +135,9 @@ this.ScenarioInitialize(scenarioInfo);
 #line 17
   testRunner.And("I click on Register button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
+#line 18
+ testRunner.Then("the message \"Thank you for signining up, you may now login\" should be displayed", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
 #line 19
  testRunner.Then("I should be registered", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
@@ -200,6 +203,10 @@ this.ScenarioInitialize(scenarioInfo);
 #line hidden
 #line 33
   testRunner.And("I click on Register button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 34
+    testRunner.Then("error message \"The Confirm Password field does not match the Password field.\" sho" +
+                        "uld be displayed", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
             }
             this.ScenarioCleanup();

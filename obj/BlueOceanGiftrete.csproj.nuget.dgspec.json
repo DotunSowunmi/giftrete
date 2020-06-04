@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dotun Sowunmi\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj": {}
+    "C:\\Users\\dotun\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dotun Sowunmi\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj": {
+    "C:\\Users\\dotun\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dotun Sowunmi\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj",
+        "projectUniqueName": "C:\\Users\\dotun\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj",
         "projectName": "BlueOceanGiftrete",
-        "projectPath": "C:\\Users\\Dotun Sowunmi\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj",
-        "packagesPath": "C:\\Users\\Dotun Sowunmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dotun Sowunmi\\source\\repos\\BlueOceanGiftreteWishlist\\obj\\",
+        "projectPath": "C:\\Users\\dotun\\source\\repos\\BlueOceanGiftreteWishlist\\BlueOceanGiftrete.csproj",
+        "packagesPath": "C:\\Users\\dotun\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dotun\\source\\repos\\BlueOceanGiftreteWishlist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dotun Sowunmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dotun\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
